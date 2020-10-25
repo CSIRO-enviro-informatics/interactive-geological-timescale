@@ -1,4 +1,7 @@
 # Interactive Geological Timescale
+
+## The point-of-truth repository for this tool is now managed by the [International Stratigraphic Commission](https://github.com/i-c-stratigraphy/interactive-geological-timescale), so this code base is now archived.
+
 This repository contains a single page web application that is an interactive rendering of the [International Commission on Stratigraphy](http://www.stratigraphy.org)'s [International Chronostratigraphic Chart](http://www.stratigraphy.org/index.php/ics-chart-timescale).
 
 This application presents a familar view of the geologic timescale drawn from oldest at the bottom to youngest at the top, as per Figure 1.
